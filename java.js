@@ -7,3 +7,4 @@ function getAge (myAge)
 }
 
 	alert ("I think its working?");
+	console.log(getAge(30))
